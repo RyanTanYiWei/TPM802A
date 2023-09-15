@@ -1,0 +1,85 @@
+<!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
+<qgis version="3.26.3-Buenos Aires">
+  <identifier>World Rivers</identifier>
+  <parentidentifier></parentidentifier>
+  <language>EN</language>
+  <type>dataset</type>
+  <title>World Rivers</title>
+  <abstract>World Rivers represents the major rivers within the world.
+
+
+
+World Rivers represents the major rivers within the world.
+
+World Rivers provides a base map layer of major rivers of the world.
+
+Largest scale when displaying the data: 1:15,000,000.</abstract>
+  <keywords vocabulary="gmd:topicCategory">
+    <keyword>line</keyword>
+  </keywords>
+  <contact>
+    <contactAddress>
+      <type></type>
+      <address>380 New York Street</address>
+      <city>Redlands</city>
+      <administrativearea>California</administrativearea>
+      <postalcode>92373-8100</postalcode>
+      <country>us</country>
+    </contactAddress>
+    <name>ArcGIS Content Team</name>
+    <organization>ESRI</organization>
+    <position>ArcGIS Content Team</position>
+    <voice>909-793-2853</voice>
+    <fax></fax>
+    <email>info@esri.com</email>
+    <role></role>
+  </contact>
+  <contact>
+    <contactAddress>
+      <type>mailing and physical address</type>
+      <address>380 New York Street</address>
+      <city>Redlands</city>
+      <administrativearea>California</administrativearea>
+      <postalcode>92373-8100</postalcode>
+      <country>USA</country>
+    </contactAddress>
+    <name>ESRI</name>
+    <organization>ESRI</organization>
+    <position></position>
+    <voice>909-793-2853</voice>
+    <fax>909-793-5953</fax>
+    <email>info@esri.com</email>
+    <role>Point of contact</role>
+  </contact>
+  <links>
+    <link format="" name="SDC Feature Database" description="" url="" mimeType="" size="" type=""/>
+  </links>
+  <history>ArcWorld 1:3M, 1:25M (source 1 of 10) ESRI, 19920801, ArcWorld™ 1:3M, ArcWorld™ 1:25M: ESRI, Redlands, California, USA. Type of source media: CD–ROM Source scale denominator: 3000000, 25000000 Source contribution: Attribute and geospatial data Rand McNally Int. (source 2 of 10) Rand McNally &amp; Company, 1991, Rand McNally New International Atlas: Rand McNally New International Atlas 2nd printing, revised, Rand McNally &amp; Company, Chicago, Illinois, USA. Type of source media: paper Source contribution: Attribute data Times Atlas (source 3 of 10) Bartholemew and Times Books, 1990, The Times Atlas of the World: The Times Atlas of the World 8th comprehensive edition, Bartholemew and Times Books, Edinburgh, Scotland. Type of source media: paper Source contribution: Attribute data DCW (source 4 of 10) ESRI, Defense Mapping Agency, presently known as National Imagery and Mapping Agency, 1992, Digital Chart of the World: ESRI, Redlands, California, USA. Type of source media: CD–ROM Source contribution: Attribute data NASA Visible Earth (source 5 of 10) NASA Visible Earth Program, : Visible Earth Program , NASA, online. Online links: http://visibleearth.nasa.gov/data/ev89/ev8936_AralSea.A2001165.0710.250m.jpg http://visibleearth.nasa.gov/data/ev87/ev8767_Baffin.A2001187.1620.500m.jpg Other citation details: Credit: Jacques Descloitres, MODIS Land Rapid Response Team; Satellite: Terra; Sensor: MODIS; Aral Sea - Image Date: 06-14-2001; VE Record ID:8936; 2400w x 3200h true-color JPEG; Nettilling Lake - Image Date: 07-06-2001; VE Record ID:8767; 2200w x 2900h true-color JPEG Type of source media: online Source contribution: Geospatial data NASA Earth Observatory (source 6 of 10) NASA Earth Observatory, : Earth Observatory , NASA, online. Online links: http://earthobservatory.nasa.gov/Newsroom/NewImages/Images/landsat_chad.jpg Other citation details: Image 2001 Type of source media: online Source contribution: Attribute and geospatial data JSC DIC (source 7 of 10) NASA JSC Digital Image Collection, STS-65 Earth observation of Omo River Delta, Lake Turkana in Ethiopia / Kenya: JSC Digital Image Collection , NASA JSC, online. Online links: http://images.jsc.nasa.gov/images/pao/STS65/10110352.htm Other citation details: NASA Photo ID: STS065-84-039; File Name: 10110352.jpg; Film Type: 70mm; Date Taken: 07/23/94; STS-65 Earth observation taken aboard Columbia, Orbiter Vehicle (OV) 102, is of Omo River Delta and Lake Turkana in Ethiopia / Kenya. Type of source media: online Source contribution: Geospatial data SouthWestern Bell WorldRoom (source 8 of 10) SouthWestern Bell WorldRoom, Lake Urmia Iran: SouthWestern Bell WorldRoom, online. Online links: http://worldroom.tamu.edu/mideast/photos/41g-37-084.html Other citation details: Note: These photographs and the accompanying text are taken from the NASA Space Shuttle Earth Observations Photography Database. Type of source media: online Source contribution: Geospatial data http://landsat7.usgs.gov (source 9 of 10) U.S. Geological Society, : Landsat PROGRAM , U.S. Geological Society, online. Online links: http://landsat7.usgs.gov/browse/titicaca.html Other citation details: This image appears to be no longer available. Type of source media: online Source contribution: Geospatial data Earthshots from the EROS (source 10 of 10) EROS Data Center of the U.S. Geological Survey, 20010112, Great Salt Lake, Utah, 1963, 1972, 1987: Earthshots 8th ed., EROS Data Center of the U.S. Geological Survey, online. Online links: http://edcwww.cr.usgs.gov/earthshots/slow/GreatSaltLake/GreatSaltLake Other citation details: 29 October 1963, Argon satellite photo; 13 September 1972, Landsat 1 MSS bands 4 2 1; 18 December 1987, Landsat 5 MSS bands 4 2 1 Type of source media: online Source contribution: Geospatial data Date: 20020130 (change 1 of 4) The following steps were performed by ESRI for Data &amp; Maps 2002: Downloaded Sea of Aral image from http://visibleearth.nasa.gov/data/ev89/ev8936_AralSea.A2001165.0710.250m.jpg. Locally registered the image to the vector data using ArcView® GIS Image Analysis creating shapefiles of the current water area. These shapefiles were used as the basis for updating the current extent of the rivers leading to the sea. Copied ArcGIS® layer file (.lyr), ArcView GIS legend file (.avl), and projection file (.prj) and created spatial indices. The following steps were performed by ESRI: Extracted the features from ArcWorld 1:25M. Aligned the mouths of rivers with coastlines. Made features consistent with all political boundaries they are coincident with. Added attribute values from the Rand McNally New International Atlas, the Times Atlas of the World, the Digital Chart of the World, and World Resources Institute. Added St. Lawrence system from ArcWorld 1:3M. Generalized to match detail of the Cntry00.shp. Removed unneeded attributes. Created ArcGIS® layer file (.lyr). Created ArcView GIS legend file (.avl). Created projection file (.prj). Ran ArcView GIS Avenue™ request ExportClean, and created spatial indices. Data sources used in this process: ArcWorld 1:3M, ArcWorld 1:25M Rand McNally Int. Times Atlas DCW NASA Visible Earth Date: 20020925 (change 2 of 4) The following steps were performed by ESRI: Downloaded all image sources from the online links. Locally registered the images to the vector data using ArcView GIS Image Analysis creating shapefiles of the current water areas. These shapefiles were used as the basis for updating the current extent of the rivers leading to these water areas. Created ArcGIS® layer file (.lyr), projection file (.prj), and spatial indices. Converted the data set to SDC. Data sources used in this process: NASA Visible Earth NASA Earth Observatory JSC DIC SouthWestern Bell WorldRoom http://landsat7.usgs.gov Earthshots from the EROS Date: 20040307 (change 3 of 4) The following steps were performed by ESRI: Added KILOMETERS attribute and calculated its values. Added MILES attribute and calculated its values. Date: 20050215 (change 4 of 4) The following steps were performed by ESRI: Deleted the shoreline (lake) features. The MILES and KILOMETERS attribute values were not recalculated. Reduced the attribute widths for NAME and SYSTEM. Corrected a spelling error.</history>
+  <fees></fees>
+  <constraints type="Limitations of use">See legal constraints.</constraints>
+  <constraints type="Access">Access granted to Licensee only.</constraints>
+  <rights>The data are provided by multiple, third party data vendors under license to ESRI for inclusion on ESRI Data &amp; Maps for use with ESRI® software. Each data vendor has its own data licensing policies and may grant varying redistribution rights to end users. Please consult the redistribution rights below for this data set provided on ESRI Data &amp; Maps. As used herein, “Geodata” shall mean any digital data set consisting of geographic data coordinates and associated attributes. The redistribution rights for this data set: Redistribution rights are granted by the data vendor for hard-copy renditions or static, electronic map images (e.g. .gif, .jpeg, etc.) that are plotted, printed, or publicly displayed with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable with a Value-Added Software Application developed by ESRI Business Partners on a royalty-free basis with proper metadata and source/copyright attribution to the respective data vendor(s). Geodata is redistributable without a Value-Added Software Application (i.e., adding the sample data to an existing, [non]commercial data set for redistribution) with proper metadata and source/copyright attribution to the respective data vendor(s). The terms and conditions below apply to all the data sets provided on ESRI Data &amp; Maps. Proprietary Rights and Copyright: Licensee acknowledges that the Data and Related Materials contain proprietary and confidential property of ESRI and its licensor(s). The Data and Related Materials are owned by ESRI and its licensor(s) and are protected by United States copyright laws and applicable international copyright treaties and/or conventions. Limited Warranty and Disclaimer: ESRI warrants that the media upon which the Data and Related Materials are provided will be free from defects in materials and workmanship under normal use and service for a period of ninety (90) days from the date of receipt. THE DATA AND RELATED MATERIALS ARE EXCLUDED FROM THE LIMITED WARRANTY, AND THE LICENSEE EXPRESSLY ACKNOWLEDGES THAT THE DATA CONTAINS SOME NONCONFORMITIES, DEFECTS, OR ERRORS. ESRI DOES NOT WARRANT THAT THE DATA WILL MEET LICENSEE'S NEEDS OR EXPECTATIONS; THAT THE USE OF THE DATA WILL BE UNINTERRUPTED; OR THAT ALL NONCONFORMITIES, DEFECTS, OR ERRORS CAN OR WILL BE CORRECTED. ESRI IS NOT INVITING RELIANCE ON THIS DATA, AND THE LICENSEE SHOULD ALWAYS VERIFY ACTUAL DATA. EXCEPT FOR THE LIMITED WARRANTY SET FORTH ABOVE, THE DATA AND RELATED MATERIALS CONTAINED THEREIN ARE PROVIDED "AS-IS," WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. HIGH RISK ACTIVITIES: (A) THE DATA AND RELATED MATERIALS ARE NOT FAULT-TOLERANT AND ARE NOT DESIGNED, MANUFACTURED, OR INTENDED FOR USE OR RESALE FOR INSURANCE UNDERWRITING OR WITH CRITICAL HEALTH AND SAFETY OR ONLINE CONTROL EQUIPMENT IN HAZARDOUS ENVIRONMENTS THAT REQUIRE FAIL-SAFE PERFORMANCE, INCLUDING, BUT NOT LIMITED TO THE OPERATION OF NUCLEAR FACILITIES, NAVIGATION OR GUIDANCE (I.E., AIRCRAFT, NAUTICAL VEHICLE, ETC.), OR COMMUNICATION SYSTEMS, AIR TRAFFIC CONTROL, EMERGENCY RESPONSE, TERRORISM PREVENTION OR RESPONSE, LIFE SUPPORT, OR WEAPONS SYSTEMS ("HIGH RISK ACTIVITIES"). ESRI SPECIFICALLY DISCLAIMS ANY EXPRESS OR IMPLIED WARRANTY OF FITNESS FOR HIGH RISK ACTIVITIES. (B) TO THE EXTENT PERMITTED BY LAW, LICENSEE AGREES TO INDEMNIFY, DEFEND, AND HOLD ESRI, ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, SUBCONTRACTORS, LICENSORS, SUCCESSORS, AND ASSIGNS HARMLESS FROM AND AGAINST ANY AND ALL LIABILITY, LOSSES, CLAIMS, EXPENSES (INCLUDING ATTORNEYS' FEES), DEMANDS, OR DAMAGES OF ANY KIND, INCLUDING DIRECT, INDIRECT, SPECIAL, PUNITIVE, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, ARISING OUT OF OR IN ANY WAY CONNECTED WITH LICENSEE'S USE OR PERMITTING THE USE BY OTHERS OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE FOR HIGH RISK ACTIVITIES. DELIVERY OF THE DATA, AND VENDOR'S HARDWARE OR SOFTWARE DOES NOT CONSTITUTE A WAIVER OF THE RIGHTS AND OBLIGATIONS SET FORTH IN THIS ARTICLE. Exclusive Remedy and Limitation of Liability: The entire liability of ESRI or its licensor(s) and Licensee's exclusive remedy shall be to terminate the Agreement upon Licensee returning the Data and Related Materials to ESRI with a copy of Licensee's invoice/receipt and ESRI returning the license fees paid to Licensee. IN NO EVENT SHALL ESRI AND/OR ITS LICENSOR(S) BE LIABLE FOR COSTS OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOST PROFITS, LOST SALES, OR BUSINESS EXPENDITURES, INVESTMENTS, OR COMMITMENTS IN CONNECTION WITH ANY BUSINESS; LOSS OF ANY GOODWILL; OR FOR ANY INDIRECT, SPECIAL, INCIDENTAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES ARISING OUT OF THIS AGREEMENT OR USE OF THE DATA AND RELATED MATERIALS, HOWEVER CAUSED, ON ANY THEORY OF LIABILITY, AND WHETHER OR NOT ESRI OR ITS LICENSOR(S) HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGE. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY EXCLUSIVE REMEDY. Third Party Beneficiary: ESRI's licensor(s) has (have) authorized ESRI to (sub)distribute and (sub)license its (their) data as incorporated into the Data and Related Materials. As an intended third party beneficiary to this Agreement, the ESRI licensor(s) is (are) entitled to directly enforce, in its own name, the rights and obligations undertaken by the Licensee and to seek all legal and equitable remedies as are afforded to ESRI. In the event that the data vendor(s) has (have) granted the end user permission to redistribute the Geodata, please use proper proprietary or copyright attribution for the various data vendor(s), and provide the associated metadata file(s) with the Geodata. In compliance with FGDC metadata standards, ESRI has attempted to practice proper metadata methodologies by providing any data source information, descriptions, and file names to assist in this effort.</rights>
+  <encoding></encoding>
+  <crs>
+    <spatialrefsys nativeFormat="Wkt">
+      <wkt></wkt>
+      <proj4></proj4>
+      <srsid>0</srsid>
+      <srid>0</srid>
+      <authid></authid>
+      <description></description>
+      <projectionacronym></projectionacronym>
+      <ellipsoidacronym></ellipsoidacronym>
+      <geographicflag>false</geographicflag>
+    </spatialrefsys>
+  </crs>
+  <extent>
+    <spatial minx="-164.88743600000000811" maxy="71.39249999999999829" maxz="0" miny="-36.96944500000000033" crs="EPSG:4326" minz="0" maxx="160.76360900000000242" dimensions="2"/>
+    <temporal>
+      <period>
+        <start></start>
+        <end></end>
+      </period>
+    </temporal>
+  </extent>
+</qgis>
